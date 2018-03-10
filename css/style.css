@@ -1,0 +1,37 @@
+li{
+	color:red;
+	
+}
+#param1{
+	color:blue;
+}
+body {
+	background-color: lightblue;
+}
+.actor{
+	color: green;
+	display: inline;
+
+}
+.actor:hover {
+	color: white;
+}
+.actor:active{
+	border-bottom: 2px red;
+	border-style: dashed;
+	color: red;
+	border-left: none;
+	border-right : none;
+	border-top: none;
+	border-width: 10%
+}
+div{
+	display: inline-block;
+	background-color:blue;
+	padding:20px green;
+	border:25px solid yellow;
+	margin:15%;
+}
+.centre{
+	text-align: center;
+}
